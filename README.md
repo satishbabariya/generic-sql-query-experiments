@@ -1,1 +1,1 @@
-# generic-sql-query-experiments
+# go-generic-sql-query-experiments
